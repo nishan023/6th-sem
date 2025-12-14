@@ -14,8 +14,10 @@ Below is the list of subjects included in this repository:
 |------------------------|--------------|------------------|-------------|
 | Software Engineering   | CSC364       | [Software Engineering](./Software%20Engineering) | [SE Outputs](https://drive.google.com/drive/folders/your_se_output_link) |
 | E-Governance           | CSC366       | [E-Governance](./E-Governance) | [E-Governance Outputs](https://drive.google.com/drive/folders/your_egov_output_link) |
+| Compiler Design and Construction | CSC368       | [Compiler Design and Construction](./Compiler%20Design%20and%20Construction) | [CDC Outputs](https://drive.google.com/drive/folders/your_cdc_output_link) |
 | NET Centric Computing  | CSC365       | [NET Centric Computing](./NET%20Centric%20Computing) | [NCC Outputs](https://drive.google.com/drive/folders/your_ncc_output_link) |
 | E-Commerce (Elective)  | CSC367       | [E-Commerce](./E-Commerce) | [E-Commerce Outputs](https://drive.google.com/drive/folders/your_ecommerce_output_link) |
+
 
 
 ## How to Use
