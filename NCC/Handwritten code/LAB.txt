@@ -1,0 +1,44 @@
+Lab 1: Write a C# program to add two digits using constructor.
+
+Lab 2: Write a C# program to display student Id and Name using automatic properties.
+
+Lab 3: Write a C# program to reverse elements of an array.
+
+Lab 4: Write a C# program showing how names of students are stored and retrieved using an indexer.
+
+Lab 5: Write a C# program for showing single, multiple, multilevel, and hierarchical inheritance.
+
+Lab 6: Calculate area of a rectangle using multiple inheritance in C#.
+
+Lab 7: Write a C# program showing how virtual methods are used in polymorphism.
+
+Lab 8: Write a C# program to add two digits using single-cast delegates.
+
+Lab 9: Write a C# program to Add, Subtract, Multiply, and Divide using OOP.
+
+Lab 10: Write a C# program to Add, Subtract, Multiply, and Divide using Interfaces.
+
+Lab 11: Write a C# program to print 1 to 10 using a generic list.
+
+Lab 12: Write a C# program to print CustomerId and CustomerName using Dictionary.
+
+Lab 13: Write a C# program to print DriveInfo, TotalSize, VolumeLabel of Drive.
+
+Lab 14: Write a C# program to Read, Write, Delete, Move, and Create a file using File.IO.
+
+Lab 15: Write a C# program to sort given names using LINQ.
+  e.g. Ram, Shyam, Hari, Bikash, Mahesh
+
+Lab 16: Write a C# program using async and wait for a long process.
+
+Lab 17: Write Console Application to perform CRUD Operation using ADO.NET in C#.
+
+Lab 18: Write Console Application to perform CRUD Operation using Entity Framework in C#.
+
+Lab 19: Write Console Application to perform CRUD Operation using ADO.NET in C# having the following database and table:
+  Database Name: EmployeeDB
+  Table: tblEmployee (Id, Name, Age, DOB, Gender, Address)
+
+Lab 20: Write Console Application to perform CRUD Operation using Entity Framework in C# having the following database and table:
+  Database Name: EmployeeDB
+  Table: tblEmployee (Id, Name, Age, DOB, Gender, Address)

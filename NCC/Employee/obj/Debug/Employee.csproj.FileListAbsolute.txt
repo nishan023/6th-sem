@@ -1,0 +1,8 @@
+E:\BSC.CSIT\Sixth Semester\NCC\Employee\bin\Debug\Employee.exe.config
+E:\BSC.CSIT\Sixth Semester\NCC\Employee\bin\Debug\Employee.exe
+E:\BSC.CSIT\Sixth Semester\NCC\Employee\bin\Debug\Employee.pdb
+E:\BSC.CSIT\Sixth Semester\NCC\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+E:\BSC.CSIT\Sixth Semester\NCC\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+E:\BSC.CSIT\Sixth Semester\NCC\Employee\obj\Debug\Employee.exe
+E:\BSC.CSIT\Sixth Semester\NCC\Employee\obj\Debug\Employee.pdb
+E:\BSC.CSIT\Sixth Semester\NCC\Employee\obj\Debug\Employee.exe.config

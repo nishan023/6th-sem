@@ -1,0 +1,14 @@
+E:\BSC.CSIT\Sixth Semester\NCC\LAB\bin\Debug\net8.0\LAB.exe
+E:\BSC.CSIT\Sixth Semester\NCC\LAB\bin\Debug\net8.0\LAB.deps.json
+E:\BSC.CSIT\Sixth Semester\NCC\LAB\bin\Debug\net8.0\LAB.runtimeconfig.json
+E:\BSC.CSIT\Sixth Semester\NCC\LAB\bin\Debug\net8.0\LAB.dll
+E:\BSC.CSIT\Sixth Semester\NCC\LAB\bin\Debug\net8.0\LAB.pdb
+E:\BSC.CSIT\Sixth Semester\NCC\LAB\obj\Debug\net8.0\LAB.GeneratedMSBuildEditorConfig.editorconfig
+E:\BSC.CSIT\Sixth Semester\NCC\LAB\obj\Debug\net8.0\LAB.AssemblyInfoInputs.cache
+E:\BSC.CSIT\Sixth Semester\NCC\LAB\obj\Debug\net8.0\LAB.AssemblyInfo.cs
+E:\BSC.CSIT\Sixth Semester\NCC\LAB\obj\Debug\net8.0\LAB.csproj.CoreCompileInputs.cache
+E:\BSC.CSIT\Sixth Semester\NCC\LAB\obj\Debug\net8.0\LAB.dll
+E:\BSC.CSIT\Sixth Semester\NCC\LAB\obj\Debug\net8.0\refint\LAB.dll
+E:\BSC.CSIT\Sixth Semester\NCC\LAB\obj\Debug\net8.0\LAB.pdb
+E:\BSC.CSIT\Sixth Semester\NCC\LAB\obj\Debug\net8.0\LAB.genruntimeconfig.cache
+E:\BSC.CSIT\Sixth Semester\NCC\LAB\obj\Debug\net8.0\ref\LAB.dll
