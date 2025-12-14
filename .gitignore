@@ -1,4 +1,5 @@
 # Ignore Employee and EmployeeEntity folders
-NCC/Employee/
+NCC/Employees/
 NCC/EmployeeEntity/
-NCC/LAB
+NCC/LAB_Practice/
+
