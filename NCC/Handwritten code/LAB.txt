@@ -42,3 +42,7 @@ Lab 19: Write Console Application to perform CRUD Operation using ADO.NET in C# 
 Lab 20: Write Console Application to perform CRUD Operation using Entity Framework in C# having the following database and table:
   Database Name: EmployeeDB
   Table: tblEmployee (Id, Name, Age, DOB, Gender, Address)
+
+
+
+ChatGpt link: https://chatgpt.com/share/6946d7a4-ccc0-8004-9a35-ac99e10f7d8c
